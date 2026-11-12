@@ -164,7 +164,7 @@
 
 ---
 
-## 6. Análisis de Resultados (Cuestionario)
+## 6. Análisis de Resultados
 
 1. **¿Cómo comprobarías la cantidad de memoria RAM disponible?**  
    Se puede comprobar ejecutando el comando `free -h` para obtener una visión en tiempo real formateada en Megabytes o Gigabytes. De igual forma, mediante utilidades como `htop` o `top` se supervisa tanto la memoria RAM en uso como la disponible.
